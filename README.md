@@ -1,6 +1,6 @@
-# EduBridge - SDG 4 Quality Education
+# EduMitra - SDG 4 Quality Education
 
-EduBridge is a study resource sharing platform built to support SDG 4 (Quality Education).
+EduMitra is a study resource sharing platform built to support SDG 4 (Quality Education).
 
 ## Features
 
